@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 Optimizing neural network models to predict successful outcomes in charitable funding
 
 ---
@@ -34,17 +34,23 @@ The initial model contained 3 neurons in each of 2 hidden layers using 'relu' ac
 
 **Initial Model Accuracy: 0.724**
 
+--
+
 For the first optimzation, the activation and epochs remained the same, but 2 additional features were removed, and each hidden layer contained 5 neurons.  
 
 ![initital](https://github.com/lnshewmo/Neural_Network_Charity_Analysis/blob/main/Resources/ASC_1.png)
 
 **First Optimization Accuracy: 0.725**
 
+--
+
 For the next optimization, the previous optimizations remained the same but the number of epochs was increased to 200.  
 
 ![initital](https://github.com/lnshewmo/Neural_Network_Charity_Analysis/blob/main/Resources/ASC_2.png)
 
 **Second Optimization Accuracy: 0.727**
+
+--
 
 For the final optimization, the model was able to select the best model from the following options:
 
